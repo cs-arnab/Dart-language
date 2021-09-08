@@ -1,0 +1,23 @@
+1.set up
+https://dart.dev/ > https://dart.dev/get-dart
+windos
+To install the Dart SDK: choco install dart-sdk
+To upgrade the Dart SDK: choco upgrade dart-sdk
+
+online code editor : https://dartpad.dev/?null_safety=true
+others : vs code
+
+install dart extension
+
+***note
+you need to first install : Chocolatey
+check Chocolatey present or not : choco
+____________________________________________________________________________________________
+2.first program
+test.dart
+*********
+main(){
+  print("hello world");
+}
+to run  => dart test.dart
+*********
